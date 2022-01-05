@@ -1,0 +1,1 @@
+Olá, isso aqui é uma anotação gerada somente pelo terminal do Linux.
